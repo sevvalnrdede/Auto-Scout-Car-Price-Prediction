@@ -1,12 +1,12 @@
-Auto Scout Car Price Prediction 🚗
+# Auto Scout Car Price Prediction 🚗
 
 This project focuses on predicting automobile prices using a dataset sourced from the online car trading platform AutoScout24 in 2019. The primary objective is to implement, evaluate, and compare various linear regression algorithms on a pre-processed dataset.
 
-📌 Project Overview
+# 📌 Project Overview
 
 The dataset contains multiple features for 9 different car models. Since the data has been pre-processed and cleaned for machine learning readiness, this project prioritizes model implementation, hyperparameter tuning, and performance analysis over extensive Exploratory Data Analysis (EDA).
 
-🎯 Objectives
+# 🎯 Objectives
 
 To predict car prices using Regression Algorithms.
 
@@ -18,7 +18,7 @@ To optimize models via Hyperparameter Tuning.
 
 To identify Feature Importance for efficient modeling.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Language: Python
 
@@ -28,7 +28,7 @@ Scikit-Learn (Machine Learning)
 
 Matplotlib & Seaborn (Visualization)
 
-🤖 Algorithms Implemented
+# 🤖 Algorithms Implemented
 
 The project follows a step-by-step implementation of the following models:
 
@@ -40,7 +40,7 @@ The project follows a step-by-step implementation of the following models:
 
 4. Elastic-Net
 
-📈 Workflow
+# 📈 Workflow
 
 1. Environment Setup: Importing necessary libraries and the dataset.
 
@@ -64,6 +64,6 @@ The project follows a step-by-step implementation of the following models:
 
 7. Performance Comparison: Side-by-side analysis of all algorithms to find the best-performing model.
 
-📊 Conclusion
+# 📊 Conclusion
 
 By comparing these models, we identify the algorithm with the highest prediction accuracy and the lowest error rates, providing insights into which model handles the Auto Scout dataset most effectively.
